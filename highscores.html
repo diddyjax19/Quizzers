@@ -1,20 +1,38 @@
-<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/highscores.css">
+    <title>Hign Scores</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/highscore.css">
+
+
+    <script src="js/highscores.js" defer></script>
 </head>
+
 <body>
     <div class="container">
-        <div class="flex-center flex-column" id="highScores">
-            <h1 class="finalScore">High Scores</h1>
-            <ul id="highScoresList"></ul>
+        <div id="highScores" class="flex-center flex-column">
+
+            <!-- <select name="quiz-select" id="quiz" onchange="getCategory()">
+                <option value="General Knowledge">General Knowledge</option>
+                <option value="Sports">Sports</option>
+                <option value="History">History</option>
+            </select> -->
+
+            <h1 id="finalScore">High Scores</h1>
+            <select name="Scores-select" id="items-drop" onchange="getCategoryScores(this)">
+                <option value="General Knowledge">General</option>
+                <option value="Sports">Sports</option>
+                <option value="History">History</option>
+            </select>
+            <ul id="highScoresList">
+            </ul>
             <a href="index.html" class="btn">Go Home</a>
         </div>
     </div>
-    <script src="js/highscores.js"></script>
 </body>
+
 </html>
