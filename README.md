@@ -38,7 +38,7 @@ __The QUIZZEERS Home Page__
 
   - This page is the welcome page,it serves as the landing page for all users.On this page the User can see what the name of the App and the instruction.Also they can see the available catergories avaliable.
 
-![HomePage](assets/screenshots/logo.png)
+![HomePage]()
 
  __Categories__
 
