@@ -34,27 +34,37 @@ The QuizIT website also shows how JavaScript works in a real-world context.The s
 
 ### Existing Features
 
-- __The QUIZZEERS Heading__
+__The QUIZZEERS Home Page__
 
-  - Featured at the top of the page, the Quizzer heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
+  - This page is the welcome page,it serves as the landing page for all users.On this page the User can see what the name of the App and the instruction.Also they can see the available catergories avaliable.
 
-![Heading](assets/screenshots/logo.png)
+![HomePage](assets/screenshots/logo.png)
 
-- __The Quiz Area__
+ __Categories__
 
-- The QuizIT game can be played in this area. The user will find it simple to read the questions and choose the appropriate response from the choices A to D.
+- This Stage occurs immediately the user has selected a category to play from,he is then redirected to a menu that gives him 3 options.
+1) Play
+2) Check HighScores of that Category 
+3) Go back to the Main menu to select a different category.
+
+  ![Categories](assets/screenshots/questionpage.png)
+
+
+  __The Quiz Area__
+
+- The Quizzer game can be played in this area. The user will find it simple to read the questions and choose the appropriate response from the choices A to D. This Section has a progress bar that shows the user the questions Answered and how many questions left,it also has a score board that shows the score.
 
   ![Quiz](assets/screenshots/questionpage.png)
 
 - __The Username Area__
 
-  - - This is in the welcome page,it is compulsory to create a valid Username,to proceed into the game you need to create a valid username,{Numbers,letters,symmbols are not allowed} .
+  - - This is at the end of the game,the User has the option to choose to log his username or play again or go back to the Landing page .
 
   ![Username](assets/screenshots/username.png)
 
-- __The Rules Box__
+- __The High Scores__
 
-  -  This section reveals the rules of the game and instructions of the game.
+  -  This section reveals the score of the user and the other players that have played the game.It also has a dropdown menu that has all the categories and thier username and score. There is also an Home button to take you to the landing page.
 
   ![Rules Box](assets/screenshots/Rules.png)
 
