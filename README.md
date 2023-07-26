@@ -15,27 +15,28 @@ The QuizIT website also shows how JavaScript works in a real-world context.The s
 
     - First Time Visitor Goals
 
-      a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+      a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the Website.
       b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
       c. As a First Time Visitor, I want to be able to enjoy the game
 
     - Returning Visitor Goals.
 
-      a. As a Returning Visitor, I want to find information about coding challenges.
-      b. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+      a. As a Returning Visitor, I want to find information about fdifferent game trivia.
+      b. As a Returning Visitor, my previous score is store and i can all my score.
       
 
     - Frequent User Goals.
 
       a. As a Frequent User, I want to test my knowledge on trivia questions.
       b. As a Frequent User, I want to Add a username to log my name into the system.
+      b. As a Frequent User, I want to see other player score compared to mine.
 
 
 ### Existing Features
 
-- __The QUIZIT Heading__
+- __The QUIZZEERS Heading__
 
-  - Featured at the top of the page, the QuizIT heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
+  - Featured at the top of the page, the Quizzer heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
 
 ![Heading](assets/screenshots/logo.png)
 
