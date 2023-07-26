@@ -38,41 +38,44 @@ __The QUIZZEERS Home Page__
 
   - This page is the welcome page,it serves as the landing page for all users.On this page the User can see what the name of the App and the instruction.Also they can see the available catergories avaliable.
 
-![HomePage]()
+![HomePage](screenshot/landing-page.png)
 
  __Categories__
 
 - This Stage occurs immediately the user has selected a category to play from,he is then redirected to a menu that gives him 3 options.
-1) Play
-2) Check HighScores of that Category 
-3) Go back to the Main menu to select a different category.
+(1) Play
+(2) Check HighScores of that Category 
+(3) Go back to the Main menu to select a different category.
 
-  ![Categories](assets/screenshots/questionpage.png)
+  ![Categories](screenshot/category.png)
 
 
   __The Quiz Area__
 
 - The Quizzer game can be played in this area. The user will find it simple to read the questions and choose the appropriate response from the choices A to D. This Section has a progress bar that shows the user the questions Answered and how many questions left,it also has a score board that shows the score.
 
-  ![Quiz](assets/screenshots/questionpage.png)
+  ![Quiz](screenshot/game-play.png)
 
 - __The Username Area__
 
   - - This is at the end of the game,the User has the option to choose to log his username or play again or go back to the Landing page .
 
-  ![Username](assets/screenshots/username.png)
+  ![Username](screenshot/input-username.png)
 
 - __The High Scores__
 
   -  This section reveals the score of the user and the other players that have played the game.It also has a dropdown menu that has all the categories and thier username and score. There is also an Home button to take you to the landing page.
 
-  ![Rules Box](assets/screenshots/Rules.png)
+  ![Rules Box](screenshot/highscore-general.png)
 
- __The Full View Of the Welcome Page__
+ __The Full View HighScore Page__
 
-  - This is just a screenshot of the front page.
+  - This is just a screenshot of how to select from each category and select see the high Score..
 
-  ![Front Page](assets/screenshots/welcomepage.png)
+  ![Front Page](screenshot/select-category-higscore.png)
+  ![HighScore General Knowledge](screenshot/highscore-general.png)
+  ![HighScore Sport](screenshot/highscore-sport.png)
+  ![HighScore History](screenshot/higscore-history.png)
 
   __The Points and Congratulation section__
 
