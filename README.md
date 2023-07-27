@@ -4,7 +4,7 @@ Quizzers is a website that offer trivia on General knowledge questions.The proje
 
 The QuizIT website also shows how JavaScript works in a real-world context.The site is targetted toward everyone who is inquisitive and looking for a challenge.QuizIT is a fully responsive website .
 
-<h2 align="center"><img src="assets/screenshots/responsive.png"></h2>
+<h2 align="center"><img src="screenshot/i-am-responsive.png"></h2>
 
 
 [View the live project here.](https://diddyjax19.github.io/Quizzers/)
@@ -123,7 +123,7 @@ __The QUIZZEERS Home Page__
 
   - I confirmed that the colors and Fonts chosen are easy to read and accessible by running it through Lighthouse in Devtools
 
-    <h2 align="center"><img src="screenshot/responsive.png"></h2>
+    <h2 align="center"><img src="screenshot/lighthouse.png"></h2>
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
@@ -162,7 +162,8 @@ __The QUIZZEERS Home Page__
   
 - Known Bugs
 
-  - Had issue making the number of the questions tally,wanted to use a shuffle system to huffle questions,this way you dont get bored of the same question over and over.
+  - i noticed that when the questions load,they tend to be scrambled,due to the api i added to my code.
+  - when deploying they was a serious lag during deployment.
 
 ## Deployment
 
@@ -178,7 +179,7 @@ The live link can be found here - https://diddyjax19.github.io/QuizIT/
 
 - Content
 
-    - The Qestions for the Home page was taken from https://www.quizbreaker.com/trivia-questions.
+    - The Qestions for the Home page was taken from https://opentdb.com/api_config.php.
 
     - Instructions on how to implement form validation on the Sign Up page was taken from w3schools.
 
@@ -206,11 +207,7 @@ The live link can be found here - https://diddyjax19.github.io/QuizIT/
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 - [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-### Media
 
-- The photos used on the home and sign up page are from This Open Source site [PixaBay](https://pixabay.com/).
-
-- Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency! [TinyPng post](https://tinypng.com/)
 
 
 ### Languages Used
