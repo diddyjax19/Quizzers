@@ -90,7 +90,7 @@ __The QUIZZEERS Home Page__
 - HTML
     - No errors were returned when passing through the official 
       [W3C validator]
-        [Welcome Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FQuizIT%2Findex.html)
+        [Landing Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FQuizzers%2Findex.html)
       [W3C validator]
         [Quiz Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FQuizIT%2Fquiz.html)
       [W3C validator]
@@ -123,7 +123,7 @@ __The QUIZZEERS Home Page__
 
   - I confirmed that the colors and Fonts chosen are easy to read and accessible by running it through Lighthouse in Devtools
 
-    <h2 align="center"><img src="assets/screenshots/lighthousereport.png"></h2>
+    <h2 align="center"><img src="screenshot/responsive.png"></h2>
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
@@ -139,10 +139,11 @@ __The QUIZZEERS Home Page__
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable Welcome page.
         
-        2. The user has two options
-          a. Create a username and Click Register.
-          b. Click the Start Game .
-      If the User doesnt create a Valid Username,they will not havve access to the game.
+        2. The user has 3 Categories to select from
+          a. General Knowledge.
+          b. Sport
+          c. History
+      
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
