@@ -77,12 +77,12 @@ __The QUIZZEERS Home Page__
   ![HighScore Sport](screenshot/highscore-sport.png)
   ![HighScore History](screenshot/higscore-history.png)
 
-  __The Points and Congratulation section__
+  __The Wrong and Right Question__
 
-  - In this area,you can view your score with is unique to your Username.
+  - In the Quiz if a user is right,the answer he selected is highlighted green but if he is wrong it is highlighted red.
 
-  ![End Page](assets/screenshots/badgeandscooreboard.jpg.png)
-
+  ![Right Answer](screenshot/right-answer.png)
+  ![wrong Answer](screenshot/wrong-answer.png)
  
 
 ### Validator Testing 
@@ -94,7 +94,7 @@ __The QUIZZEERS Home Page__
       [W3C validator]
         [Quiz Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FQuizIT%2Fquiz.html)
       [W3C validator]
-        [Congratulation Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FQuizIT%2Fend.html)
+        [High Score](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FQuizzers%2FhighScores.html)
 
 
 - CSS
