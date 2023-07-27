@@ -160,7 +160,7 @@ __The QUIZZEERS Home Page__
 
     
   
-- Known Bugs
+-  #### Known Bugs
 
   - i noticed that when the questions load,they tend to be scrambled,due to the api i added to my code.
   - when deploying they was a serious lag during deployment.
@@ -169,12 +169,13 @@ __The QUIZZEERS Home Page__
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://github.com/diddyjax19/QuizIT/blob/f5d93ada8d9f809d1c60643bf87808d4bd9d0aca/index.html) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Main".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://diddyjax19.github.io/QuizIT/) in the "GitHub Pages" section.
-The live link can be found here - https://diddyjax19.github.io/QuizIT/
+6. Scroll back down through the page to locate the now published site [link](https://diddyjax19.github.io/Quizzers/) in the "GitHub Pages" section.
+The live link can be found here - https://diddyjax19.github.io/Quizzers//
+
+
 ### Credit 
 
 - Content
@@ -191,7 +192,7 @@ The live link can be found here - https://diddyjax19.github.io/QuizIT/
 
 #### Colour Scheme
 
- - The colours used are In QuizIT Websites are Black,Grey,dogerblue,blue,green-cyan,greenyellow,cyan-blue,red and white.
+ - The colours used are In QuizIT Websites are blue,grey,red,green and white
 
  - In order to pick the background and text color i used the color grid  tool [Color Grid](https://contrast-grid.eightshapes.com//HTML5) . This provide appropriate information to make a better decision when choosing my colors.
    
